@@ -21,6 +21,6 @@ Files:
 
 
 
-## 📄 Documents
+
 ## 📄 Project Document
 [Click here to view Project Proposal](Airbnb_Project_Proposal.pdf)
