@@ -6,7 +6,13 @@ This project analyzes Airbnb listing data, including pricing, location, reviews,
 ## Objective
 To identify key factors affecting pricing, occupancy, and customer satisfaction in the Airbnb market.
 
-
+## Team & Roles
+- Project Leader: Jai Surya Prabhakaran
+- Data Analyst: Jai Surya Prabhakaran
+- Data Collection: Divya Bharathi Selvam
+- Visualization: Surya Prakash Nidamanuri
+- Reporting:Surya Prakash Nidamanuri
+- Documentation Lead: Jai Surya Prabhakaran
 
 ## 📂 Dataset
 Dataset Source: Kaggle  
