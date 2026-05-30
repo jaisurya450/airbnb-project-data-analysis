@@ -1,7 +1,7 @@
 # Airbnb Booking & Pricing Strategy Analysis
 
 ##  Project Description
-This project analyzes Airbnb listing data, including pricing, location, reviews, and property features. The aim is to understand the factors that influence pricing and booking behavior, and to identify trends that can help hosts improve their performance and revenue.
+This project analyzes Airbnb listing data, including pricing, location, property type, amenities, availability, and customer reviews. The aim is to identify the factors that influence Airbnb listing prices and understand how property characteristics and customer ratings vary across different listings. The analysis helps uncover market trends and provides insights that can support data-driven decision-making for Airbnb hosts and property managers.
 
 ## Objective
 To identify key factors affecting pricing, occupancy, and customer satisfaction in the Airbnb market.
