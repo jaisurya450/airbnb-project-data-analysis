@@ -23,7 +23,7 @@ Files:
 
 
 ## Dataset Link
-[Airbnb Listings Dataset - Kaggle](https://www.kaggle.com/datasets/ulrikthygepedersen/airbnb-listings))
+[Airbnb Listings Dataset - Kaggle](https://www.kaggle.com/datasets/ulrikthygepedersen/airbnb-listings)
 
 
 
