@@ -4,7 +4,7 @@
 This project analyzes Airbnb listing data, including pricing, location, property type, amenities, availability, and customer reviews. The aim is to identify the factors that influence Airbnb listing prices and understand how property characteristics and customer ratings vary across different listings. The analysis helps uncover market trends and provides insights that can support data-driven decision-making for Airbnb hosts and property managers.
 
 ## Objective
-To identify key factors affecting pricing, occupancy, and customer satisfaction in the Airbnb market.
+To identify the key factors affecting Airbnb listing prices and customer ratings by analyzing property characteristics, location, amenities, availability, and review data.
 
 ## Team & Roles
 - Project Leader: Jai Surya Prabhakaran
